@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>Ejercicio 05</title>
+		<meta charset="UTF-8">
+		<script src="./ejercicio05.js"></script>
+	</head>
+	<body>
+		<h2>Ejercicio 02:</h2>
+		<p>Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.</p>
+		<hr>
+		<div id="divCreateTable">
+			<h3>Creación de la tabla</h3>
+			<label>Tamaño de la tabla:</label>
+			<input type="number" id="tableSize" value=1>
+			<input type="button" onclick="createTable()" value="Crear tabla">
+		</div>
+		<div id="divValuesTable" style="display: none">
+			<h3>Definicion de valores</h3>
+			<div id="valuesTable"> <!-- Aqui va la tabla -->
+			</div>
+			<input type="button" onclick="calcSum()" value="Calcular">
+		</div>
+		<div id="divTotalSum" style="display: none">
+			<div id="gottenValues"></div>
+			<label>La suma total es: </label>
+			<label id="totalSum"></label>
+		</div>
+		<hr>
+	</body>
+</html>
+
