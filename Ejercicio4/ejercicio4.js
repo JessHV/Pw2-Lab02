@@ -6,7 +6,7 @@ function ingresar(){
         let codigo = link.replace(/https:\/\/meet.google.com\//g,"");
         codigo = codigo.replace(/-/g,"");
         document.getElementById("Codigo").innerHTML = `
-        <h4>
+        <h4 style="text-align:center">
             Codigo sin guiones: ${codigo}
         </h1>`;
     }
