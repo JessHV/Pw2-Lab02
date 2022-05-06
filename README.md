@@ -74,28 +74,28 @@
             <ul>
                 <li>
                     Ejercicio 01:<br>
-                    Escriba una función que reciba el número de día de la fecha actual new Date() - https://www.w3schools.com/jsref/jsref_obj_date.asp y devuelva el texto del día de la semana correspondientes. Por ejemplo si recibe 0, devolvería “Domingo”.
-                    <a href="#">Colocar link</a>
+                    Escriba una función que reciba el número de día de la fecha actual new Date() - https://www.w3schools.com/jsref/jsref_obj_date.asp y devuelva el texto del día de la semana correspondientes. Por ejemplo si recibe 0, devolvería “Domingo”.<br>
+                    Solucion: <a href="#">Colocar link</a>
                 </li>
                 <li>
                     Ejercicio 02:<br>
-                    Escriba una página web que reciba un texto y al presionar un botón muestre el mismo texto invertido en otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría como “aloH”.
-                    <a href="#">Colocar link</a>
+                    Escriba una página web que reciba un texto y al presionar un botón muestre el mismo texto invertido en otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría como “aloH”.<br>
+                    Solucion: <a href="#">Colocar link</a>
                 </li>
                 <li>
                     Ejercicio 03:<br>
-                    Escribir una página que muestre cuántos días faltan para el día de Arequipa!
-                    <a href="#">Colocar link</a>
+                    Escribir una página que muestre cuántos días faltan para el día de Arequipa!<br>
+                    Solucion: <a href="#">Colocar link</a>
                 </li>
                 <li>
                     Ejercicio 04:<br>
-                    Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores
-                    <a href="#">Colocar link</a>
+                    Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores<br>
+                    Solucion: <a href="#">Colocar link</a>
                 </li>
                 <li>
                     Ejercicio 05:<br>
-                    Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.
-                    <a href="#">Colocar link</a>
+                    Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.<br>
+                    Solucion: <a href="https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio05">https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio05</a>
                 </li>
                 <li>
                     Ejercicio 06:<br>
