@@ -95,7 +95,7 @@
                 <li>
                     Ejercicio 05:<br>
                     Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.<br>
-                    Solucion: <a href="https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio05">https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio05</a>
+                    Solucion: <a href="https://github.com/JessHV//Pw2-Lab02/tree/main/ejercicio05">https://github.com/JessHV//Pw2-Lab02/tree/main/ejercicio05</a>
                 </li>
                 <li>
                     Ejercicio 06:<br>
