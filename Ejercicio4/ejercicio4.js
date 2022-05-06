@@ -10,4 +10,11 @@ function ingresar(){
             Codigo sin guiones: ${codigo}
         </h1>`;
     }
+    else{
+        document.getElementById("Codigo").innerHTML = `
+        <h3 style="color:Tomato;">
+        Ingrese un link valido
+        </h3>
+        `
+    }
 }
