@@ -7,6 +7,6 @@ function reverseText(){
         invText += text.substring(i-1,i);
     }
     invText += "</label>";
-    newText.innerHTML = "<label>El texto invertido es:</label><br>"
+    newText.innerHTML = "<label>El Texto invertido es:</label><br>";
     newText.innerHTML += invText;
 }
