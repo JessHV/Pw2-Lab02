@@ -75,7 +75,7 @@
                 <li>
                     Ejercicio 01:<br>
                     Escriba una función que reciba el número de día de la fecha actual new Date() - https://www.w3schools.com/jsref/jsref_obj_date.asp y devuelva el texto del día de la semana correspondientes. Por ejemplo si recibe 0, devolvería “Domingo”.<br>
-                    Solucion: <a href="#">Colocar link</a>
+                    Solucion: <a href="https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio01">https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio01</a>
                 </li>
                 <li>
                     Ejercicio 02:<br>
