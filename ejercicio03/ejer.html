@@ -10,10 +10,11 @@
         <h1 id="demo"></h1>
 
         <script>
-            let diaArequipa = new Date(2022,7,15);
-            console.log(diaArequipa.getDay);
-            console.log(diaArequipa.getDate);
-            console.log(diaArequipa.getHours);
+            let fechaActual = new Date();
+            var fechaUtc2 = new Date(Date.UTC(96,1,2,3,4,5));
+            console.log(fechaUtc2.toUTCString());
+            //console.log(diaArequipa.getDate);
+            //console.log(diaArequipa.getHours);
         </script>
 
     </body>
