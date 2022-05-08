@@ -70,7 +70,8 @@
         <tr>
             <td>
             I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
-            Repositorios personales<br>
+                    Repositorio general<br>
+                    <a href="https://github.com/JessHV/PW2-Lab.git">https://github.com/JessHV/PW2-Lab.git</a>
             <ul>
                 <li>
                     Ejercicio 01:<br>
@@ -100,8 +101,6 @@
                 <li>
                     Ejercicio 06:<br>
                     Utilice la herramienta flipgrid - https://info.flipgrid.com/ envie un video en el tema "Presentación y ejemplo de JavaScript" ponga aquí los enlaces de sus envíos.
-                    Repositorio general<br>
-                    <a href="https://github.com/JessHV/PW2-Lab.git">https://github.com/JessHV/PW2-Lab.git</a>
                     <ul>
                         <li>
                             Blanco Trujillo, Antony Jacob<br>
@@ -113,7 +112,7 @@
                         </li>
                         <li>
                             Hancco Velásquez, Jessica Geraldine<br>
-                            <a href="#">Colocar link</a>
+                            <a href="https://flipgrid.com/s/Xy-eBFrfXfP9">https://flipgrid.com/s/Xy-eBFrfXfP9</a>
                         </li>
                         <li>
                             Mayta Nolasco, Oliver Alessandro<br>
@@ -179,12 +178,9 @@
     <tbody>
         <tr>
             <td>
-                <ul>
-                    <li>Javascript tutorial. <a href="https://www.w3schools.com/javascript/default.asp">https://www.w3schools.com/javascript/default.asp</a>, 2021. Accesed: 02-09-2021.</li>
-                    <li>Loiane Groner. Learning JavaScript Data Structures and Algorithms: Write complex and powerful Javascript code using the lastest ECMAScript</li>
-                    <li>Validador HTML - <a href="https://validator.w3.org/">https://validator.w3.org/</a></li>
-                    <li>Validador CSS - <a href="https://jigsaw.w3.org/css-validator/">https://jigsaw.w3.org/css-validator/</a></li>
-                </ul>
+                [1] Javascript tutorial. <a href="https://www.w3schools.com/javascript/default.asp">https://www.w3schools.com/javascript/default.asp</a>, 2021. Accesed: 02-09-2021.
+                Loiane Groner. Learning JavaScript Data Structures and Algorithms: Write complex and powerful Javascript code using the lastest ECMAScript<br>
+                [2] Escobedo, R., 2022. pw2/labs/lab01 at main · rescobedoq/pw2. [online] GitHub. Available at: https://github.com/rescobedoq/pw2/tree/main/labs/lab01.
             </td>
         </tr>
     </tbody>
