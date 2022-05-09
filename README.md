@@ -1,9 +1,8 @@
-# Pw2-Lab02
 <table>
     <theader>
         <tr>
             <td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
-            <th>
+            <th align="center">
                 <span style="font-weight:bold;">UNIVERSIDAD NACIONAL DE SAN AGUSTIN</span><br />
                 <span style="font-weight:bold;">FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS</span><br />
                 <span style="font-weight:bold;">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</span>
@@ -28,7 +27,7 @@
 </theader>
 <tbody>
     <tr>
-        <td>ASIGNATURA:</td><td colspan="5">Laboratorio de Programación Web 2</td>
+        <td>ASIGNATURA:</td><td colspan="5">Laboratorio de Programación Web 2 - Grupo "D"</td>
     </tr>
     <tr>
         <td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Javascript</td>
