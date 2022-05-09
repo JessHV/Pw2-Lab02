@@ -1,8 +1,10 @@
-// Initial code of arrayGenerator()
+// Alternative solution using map() over array of null values
 function arrayGenerator(n, min, max){
-	let a = [];
-	for(let x = 0; x < n; x++){
-		a.push(Math.ceil(Math.random() * (max - min) + min));
-	}
+	// Creates an array of nulls, with length = n
+	let a = Array.apply(null, Array(n));
+	/* Maps over "a" to set a random value between min and max to every element
+	and saves the new array in "a" */
+	// Now uses arrow function
+	a = a.map( e => Math.ceil(Math.random() * (max - min) + min));
 	return a;
 }
