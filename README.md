@@ -80,7 +80,7 @@
                 <li>
                     Ejercicio 02:<br>
                     Escriba una página web que reciba un texto y al presionar un botón muestre el mismo texto invertido en otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría como “aloH”.<br>
-                    Solucion: <a href="https://github.com/JessHV/Pw2-Lab02/tree/main/Ejercicio2">https://github.com/JessHV/Pw2-Lab02/tree/main/Ejercicio2</a>
+                    Solucion: <a href="https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio02">https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio02</a>
                 </li>
                 <li>
                     Ejercicio 03:<br>
@@ -90,7 +90,7 @@
                 <li>
                     Ejercicio 04:<br>
                     Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores<br>
-                    Solucion: <a href="https://github.com/JessHV/Pw2-Lab02/tree/main/Ejercicio4">https://github.com/JessHV/Pw2-Lab02/tree/main/Ejercicio4</a>
+                    Solucion: <a href="https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio04">https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio04</a>
                 </li>
                 <li>
                     Ejercicio 05:<br>
@@ -111,7 +111,7 @@
                         </li>
                         <li>
                             Hancco Velásquez, Jessica Geraldine<br>
-                            <a href="https://flipgrid.com/s/Xy-eBFrfXfP9">https://flipgrid.com/s/Xy-eBFrfXfP9</a>
+                            <a href="https://flipgrid.com/d3207ddf">https://flipgrid.com/d3207ddf</a>
                         </li>
                         <li>
                             Mayta Nolasco, Oliver Alessandro<br>
@@ -169,9 +169,9 @@ function arrayGenerator(n, min, max){
             <td>
             III. CONCLUSIONES<br>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Para lograr ser programadores competentes, debemos informarnos, para tener más métodos y maneras de resolver problemas,  y saber identificar los errores antes de terminar el programa ya que esto nos ayudará a ser más veloces y nos ahorrará tiempo luego al tener que arreglar el código.</li>
+                    <li>El lenguaje Javascript puede ser muy útil a la hora de realizar páginas que tengan que ver con fechas(o tiempo), ya que, nos ofrece una gran cantidad de métodos y objetos destinados a la manipulación y maniobrabilidad, como el objeto “Date()” y todos sus métodos afines.</li>
+                    <li>Los eventos del lenguaje JavaScript nos resultan beneficiosos ya que al realizar cambios en las páginas web nos ayudan a producir cambios sin la necesidad de recargar la página, esto se aplica a botones o a cambios de entrada entre otros eventos.</li>
                 </ul>
             </td>
         </tr>
