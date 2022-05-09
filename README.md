@@ -70,7 +70,8 @@
         <tr>
             <td>
             I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
-            Repositorios personales<br>
+                    Repositorio general<br>
+                    <a href="https://github.com/JessHV/PW2-Lab.git">https://github.com/JessHV/PW2-Lab.git</a>
             <ul>
                 <li>
                     Ejercicio 01:<br>
@@ -100,20 +101,18 @@
                 <li>
                     Ejercicio 06:<br>
                     Utilice la herramienta flipgrid - https://info.flipgrid.com/ envie un video en el tema "Presentación y ejemplo de JavaScript" ponga aquí los enlaces de sus envíos.
-                    Repositorio general<br>
-                    <a href="https://github.com/JessHV/PW2-Lab.git">https://github.com/JessHV/PW2-Lab.git</a>
                     <ul>
                         <li>
                             Blanco Trujillo, Antony Jacob<br>
                             <a href="#">Colocar link</a>
                         </li>
                         <li>
-                            Cahuana Aguilar, Josué Mathías Mig<br>
+                            Cahuana Aguilar, Josué Mathías Miguel<br>
                             <a href="#">Colocar link</a>
                         </li>
                         <li>
                             Hancco Velásquez, Jessica Geraldine<br>
-                            <a href="#">Colocar link</a>
+                            <a href="https://flipgrid.com/s/Xy-eBFrfXfP9">https://flipgrid.com/s/Xy-eBFrfXfP9</a>
                         </li>
                         <li>
                             Mayta Nolasco, Oliver Alessandro<br>
@@ -133,13 +132,19 @@
             II. SOLUCIÓN DEL CUESTIONARIO<br>
                 <ul>
                     <li>
-                        <b>Pruebe el código de arrayGenerator() en la página <a href="https://jslint.com/">https://jslint.com/</a></b>
+                        <b>Pruebe el código de arrayGenerator() en la página <a href="https://jslint.com/">https://jslint.com/</a></b><br>
+                        <img src="JSLint.jpg" alt="arrayGenerato() probado en JSLint"><br>
+                        Como tal en esta función JSLint detecta 2 warnings.
+                        <ul>
+                            <li><i>Unexpected "let"</i>, esto se soluciona declarando la variable x antes de usarla en el  <i>for</i>  y cambiando el  <i>x++</i>  por  <i>x += 1 </i>.</li>
+                            <li><i>Unexpected "for"</i>, en este caso JSLint recomienda el uso de un  <i>for each</i>  para evitar advertencias.</li>
+                        </ul> 
                     </li>
                     <li>
                         <b>Revisar esta discusión en stackoverflow<br>
                         <a href="https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript">https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript</a></b>
                         <ul>
-                            <li>¿Cómo se pueden resolver los warnings?</li>
+                            <li>¿Cómo se pueden resolver los warnings?</li><br>
                             <li>¿Se puede modificar la solución usando map? ¿Cómo?</li>
                         </ul>
                     </li>
@@ -179,12 +184,9 @@
     <tbody>
         <tr>
             <td>
-                <ul>
-                    <li>Javascript tutorial. <a href="https://www.w3schools.com/javascript/default.asp">https://www.w3schools.com/javascript/default.asp</a>, 2021. Accesed: 02-09-2021.</li>
-                    <li>Loiane Groner. Learning JavaScript Data Structures and Algorithms: Write complex and powerful Javascript code using the lastest ECMAScript</li>
-                    <li>Validador HTML - <a href="https://validator.w3.org/">https://validator.w3.org/</a></li>
-                    <li>Validador CSS - <a href="https://jigsaw.w3.org/css-validator/">https://jigsaw.w3.org/css-validator/</a></li>
-                </ul>
+                [1] Javascript tutorial. <a href="https://www.w3schools.com/javascript/default.asp">https://www.w3schools.com/javascript/default.asp</a>, 2022.
+                Loiane Groner. Learning JavaScript Data Structures and Algorithms: Write complex and powerful Javascript code using the lastest ECMAScript<br>
+                [2] Escobedo, R., 2022. pw2/labs/lab02 at main · rescobedoq/pw2. [online] GitHub. Available at: https://github.com/rescobedoq/pw2/tree/main/labs/lab02.
             </td>
         </tr>
     </tbody>

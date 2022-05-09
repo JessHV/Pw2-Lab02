@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,6 +25,7 @@
     </style>
 </head>
 <body>
+    
     <h3>getDay() en JavaScript</h3>
     <div>
         <h1>Hoy es...</h1>
@@ -33,25 +34,10 @@
     
 <script>
     let dia = new Date().getDay();
-    let diaEscrito;
-    
-    if (dia == 0){
-        diaEscrito = "Domingo";
-    } else if (dia == 1){
-        diaEscrito = "Lunes";
-    } else if (dia == 2) {
-        diaEscrito = "Martes";
-    } else if (dia == 3) {
-        diaEscrito = "Miercoles";
-    } else if (dia == 4) {
-        diaEscrito = "Jueves";
-    } else if (dia == 5) {
-        diaEscrito = "Viernes";
-    } else {
-        diaEscrito = "Sábado";
-    }
-    document.getElementById("demo").innerHTML = diaEscrito;
+    let diasSemana = ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"];
+    document.getElementById("demo").innerHTML = diasSemana[dia];
     console.log(dia);
 </script>
+
 </body>
 </html>
