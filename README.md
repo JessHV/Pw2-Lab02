@@ -145,7 +145,15 @@
                         <a href="https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript">https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript</a></b>
                         <ul>
                             <li>¿Cómo se pueden resolver los warnings?</li><br>Para resolver los warnings solo se deberia declarar el array con <i>[]</i> y declarar otra variable con la longitud del array, ya que en si a los arrays se le asignan elementos y van creciendo dinamicamente.
-                            <li>¿Se puede modificar la solución usando map? ¿Cómo?</li>
+                            <li>¿Se puede modificar la solución usando map? ¿Cómo?</li><br>
+							Si se puede modificar el codigo usando map.<br>
+							Segun la discusión mencionada anteriormente, se puede crear un arreglo "vacío" iterable utilizando la siguiente linea de codigo:<br>
+							<code>Array.apply();</code><br>
+							Guardando el valor que retorna en una variable, en el caso de la función arrayGenerator() se lo asignamos a la variable "a".
+							Luego podemos iterar sobre ese arreglo con map, reemplazando cada elemento con el valor deseado:<br>
+							<code>a.map( e => Math.ceil(Math.random() * (max - min) + min));</code><br>
+							Por último retornamos el arreglo resultado de la iteración o lo guardamos en una variable.<br>
+							Código a probar: <a href="./arrayGenerator/arrGen.html">./arrayGenerator/arrGen.html</a><br>
                         </ul>
                     </li>
                 </ul>
