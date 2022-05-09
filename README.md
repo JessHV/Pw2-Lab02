@@ -107,7 +107,7 @@
                             <a href="#">Colocar link</a>
                         </li>
                         <li>
-                            Cahuana Aguilar, Josué Mathías Mig<br>
+                            Cahuana Aguilar, Josué Mathías Miguel<br>
                             <a href="#">Colocar link</a>
                         </li>
                         <li>
@@ -132,13 +132,19 @@
             II. SOLUCIÓN DEL CUESTIONARIO<br>
                 <ul>
                     <li>
-                        <b>Pruebe el código de arrayGenerator() en la página <a href="https://jslint.com/">https://jslint.com/</a></b>
+                        <b>Pruebe el código de arrayGenerator() en la página <a href="https://jslint.com/">https://jslint.com/</a></b><br>
+                        <img src="JSLint.jpg" alt="arrayGenerato() probado en JSLint"><br>
+                        Como tal en esta función JSLint detecta 2 warnings.
+                        <ul>
+                            <li><i>Unexpected "let"</i>, esto se soluciona declarando la variable x antes de usarla en el  <i>for</i>  y cambiando el  <i>x++</i>  por  <i>x += 1 </i>.</li>
+                            <li><i>Unexpected "for"</i>, en este caso JSLint recomienda el uso de un  <i>for each</i>  para evitar advertencias.</li>
+                        </ul> 
                     </li>
                     <li>
                         <b>Revisar esta discusión en stackoverflow<br>
                         <a href="https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript">https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript</a></b>
                         <ul>
-                            <li>¿Cómo se pueden resolver los warnings?</li>
+                            <li>¿Cómo se pueden resolver los warnings?</li><br>
                             <li>¿Se puede modificar la solución usando map? ¿Cómo?</li>
                         </ul>
                     </li>
@@ -178,9 +184,9 @@
     <tbody>
         <tr>
             <td>
-                [1] Javascript tutorial. <a href="https://www.w3schools.com/javascript/default.asp">https://www.w3schools.com/javascript/default.asp</a>, 2021. Accesed: 02-09-2021.
+                [1] Javascript tutorial. <a href="https://www.w3schools.com/javascript/default.asp">https://www.w3schools.com/javascript/default.asp</a>, 2022.
                 Loiane Groner. Learning JavaScript Data Structures and Algorithms: Write complex and powerful Javascript code using the lastest ECMAScript<br>
-                [2] Escobedo, R., 2022. pw2/labs/lab01 at main · rescobedoq/pw2. [online] GitHub. Available at: https://github.com/rescobedoq/pw2/tree/main/labs/lab01.
+                [2] Escobedo, R., 2022. pw2/labs/lab02 at main · rescobedoq/pw2. [online] GitHub. Available at: https://github.com/rescobedoq/pw2/tree/main/labs/lab02.
             </td>
         </tr>
     </tbody>
