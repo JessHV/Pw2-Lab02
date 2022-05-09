@@ -13,20 +13,21 @@
             <img src="arequipa.jpg">
         </div>
         <script>
+            //El método calcula la diferencia(en días) de 2 fechas
             function calcularDiferenciaDias(fecha1, fecha2){
+                //Almacenamos la diferencia en la variable "diferencia" 
                 let diferencia = (fecha1 - fecha2) / (1000 * 60 * 60 *24);
+                //Redondeamos el número de dias, con ayuda del método floor
                 return Math.floor(diferencia);
             }
+            //en la variable "fechaActual" almacenamos la fecha del presente
             let fechaActual = new Date();
-            console.log(fechaActual);
-            console.log();
+            //en la variable "diaArequipa" almacenamos la fecha del Aniversario de nuestra ciudad
             let diaArequipa = new Date(2022,7,15);
-            console.log(diaArequipa);
-            console.log();
-            console.log(calcularDiferenciaDias(diaArequipa, fechaActual));
+            //invocamos al método "calcularDiferenciaDias" y almacenamos el numero de dias en la variable "respuesta"
             let respuesta = calcularDiferenciaDias(diaArequipa, fechaActual);
+            //Modificamos el valor de nuestro tag con el id "demo", con el número extraído
             document.getElementById("demo").innerHTML = respuesta+" dias para el Aniversario";
         </script>
-
     </body>
 </html>
