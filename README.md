@@ -153,7 +153,14 @@
 							Luego podemos iterar sobre ese arreglo con map, reemplazando cada elemento con el valor deseado:<br>
 							<code>a.map( e => Math.ceil(Math.random() * (max - min) + min));</code><br>
 							Por último retornamos el arreglo resultado de la iteración o lo guardamos en una variable.<br>
-							Código a probar: <a href="./arrayGenerator/arrGen.html">./arrayGenerator/arrGen.html</a><br>
+							Código a probar: <a href="https://github.com/JessHV/Pw2-Lab02/blob/main/arrayGenerator/arrayGenerator.js">./arrayGenerator/arrayGenerator.js</a><br>
+                            <code><pre>
+function arrayGenerator(n, min, max){
+	let a = Array.apply(null, Array(n));
+	a = a.map( e => Math.ceil(Math.random() * (max - min) + min));
+	return a;
+}
+                            </pre></code>
                         </ul>
                     </li>
                 </ul>
