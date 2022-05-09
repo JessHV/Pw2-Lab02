@@ -115,7 +115,7 @@
                         </li>
                         <li>
                             Mayta Nolasco, Oliver Alessandro<br>
-                            <a href="#">Colocar link</a>
+                            <a href="https://flipgrid.com/a2685fe1">https://flipgrid.com/a2685fe1</a>
                         </li>
                         <li>
                             Umasi Cariapaza, Carlos Daniel<br>
