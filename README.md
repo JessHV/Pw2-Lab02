@@ -81,17 +81,17 @@
                 <li>
                     Ejercicio 02:<br>
                     Escriba una página web que reciba un texto y al presionar un botón muestre el mismo texto invertido en otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría como “aloH”.<br>
-                    Solucion: <a href="#">Colocar link</a>
+                    Solucion: <a href="https://github.com/JessHV/Pw2-Lab02/tree/main/Ejercicio2">https://github.com/JessHV/Pw2-Lab02/tree/main/Ejercicio2</a>
                 </li>
                 <li>
                     Ejercicio 03:<br>
                     Escribir una página que muestre cuántos días faltan para el día de Arequipa!<br>
-                    Solucion: <a href="#">Colocar link</a>
+                    Solucion: <a href="https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio03">https://github.com/JessHV/Pw2-Lab02/tree/main/ejercicio03</a>
                 </li>
                 <li>
                     Ejercicio 04:<br>
                     Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores<br>
-                    Solucion: <a href="#">Colocar link</a>
+                    Solucion: <a href="https://github.com/JessHV/Pw2-Lab02/tree/main/Ejercicio4">https://github.com/JessHV/Pw2-Lab02/tree/main/Ejercicio4</a>
                 </li>
                 <li>
                     Ejercicio 05:<br>
@@ -108,7 +108,7 @@
                         </li>
                         <li>
                             Cahuana Aguilar, Josué Mathías Miguel<br>
-                            <a href="#">Colocar link</a>
+                            <a href="https://flipgrid.com/86aeccf3">https://flipgrid.com/86aeccf3</a>
                         </li>
                         <li>
                             Hancco Velásquez, Jessica Geraldine<br>
@@ -120,7 +120,7 @@
                         </li>
                         <li>
                             Umasi Cariapaza, Carlos Daniel<br>
-                            <a href="#">Colocar link</a>
+                            <a href="https://flipgrid.com/8c04201b">https://flipgrid.com/8c04201b</a>
                         </li>
                     </ul>
                 </li>
@@ -136,7 +136,7 @@
                         <img src="JSLint.jpg" alt="arrayGenerato() probado en JSLint"><br>
                         Como tal en esta función JSLint detecta 2 warnings.
                         <ul>
-                            <li><i>Unexpected "let"</i>, esto se soluciona declarando la variable x antes de usarla en el  <i>for</i>  y cambiando el  <i>x++</i>  por  <i>x += 1 </i>.</li>
+                            <li><i>Unexpected "let"</i>, esto se soluciona declarando la variable x antes de usarla en el  <i>for</i>  y cambiando el  <i>x++</i>  por  <i>x += 1</i>.</li>
                             <li><i>Unexpected "for"</i>, en este caso JSLint recomienda el uso de un  <i>for each</i>  para evitar advertencias.</li>
                         </ul> 
                     </li>
@@ -144,7 +144,7 @@
                         <b>Revisar esta discusión en stackoverflow<br>
                         <a href="https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript">https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript</a></b>
                         <ul>
-                            <li>¿Cómo se pueden resolver los warnings?</li><br>
+                            <li>¿Cómo se pueden resolver los warnings?</li><br>Para resolver los warnings solo se deberia declarar el array con <i>[]</i> y declarar otra variable con la longitud del array, ya que en si a los arrays se le asignan elementos y van creciendo dinamicamente.
                             <li>¿Se puede modificar la solución usando map? ¿Cómo?</li>
                         </ul>
                     </li>
@@ -155,6 +155,9 @@
             <td>
             III. CONCLUSIONES<br>
                 <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
                 </ul>
             </td>
         </tr>
@@ -186,7 +189,8 @@
             <td>
                 [1] Javascript tutorial. <a href="https://www.w3schools.com/javascript/default.asp">https://www.w3schools.com/javascript/default.asp</a>, 2022.
                 Loiane Groner. Learning JavaScript Data Structures and Algorithms: Write complex and powerful Javascript code using the lastest ECMAScript<br>
-                [2] Escobedo, R., 2022. pw2/labs/lab02 at main · rescobedoq/pw2. [online] GitHub. Available at: https://github.com/rescobedoq/pw2/tree/main/labs/lab02.
+                [2] Escobedo, R., 2022. pw2/labs/lab02 at main · rescobedoq/pw2. [online] GitHub. Available at: https://github.com/rescobedoq/pw2/tree/main/labs/lab02.<br>
+                [3] D. Crockford, "JSLint: Help", Jslint.com, 2022. [Online]. Available: https://www.jslint.com/help.html#for. [Accessed: 09- May- 2022].
             </td>
         </tr>
     </tbody>
