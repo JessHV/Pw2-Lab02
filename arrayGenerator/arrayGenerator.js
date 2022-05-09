@@ -4,9 +4,7 @@ function arrayGenerator(n, min, max){
 	let a = Array.apply(null, Array(n));
 	/* Maps over "a" to set a random value between min and max to every element
 	and saves the new array in "a" */
-	a = a.map( function(e){
-		let rnd = Math.ceil(Math.random() * (max - min) + min);
-		return rnd;
-	});
+	// Now uses arrow function
+	a = a.map( e => Math.ceil(Math.random() * (max - min) + min));
 	return a;
 }
