@@ -144,8 +144,8 @@
                         <b>Revisar esta discusión en stackoverflow<br>
                         <a href="https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript">https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript</a></b>
                         <ul>
-                            <li>¿Cómo se pueden resolver los warnings?</li><br>Para resolver los warnings solo se deberia declarar el array con <i>[]</i> y declarar otra variable con la longitud del array, ya que en si a los arrays se le asignan elementos y van creciendo dinamicamente.
-                            <li>¿Se puede modificar la solución usando map? ¿Cómo?</li><br>
+                            <li>¿Cómo se pueden resolver los warnings?</li>Para resolver los warnings solo se deberia declarar el array con <i>[]</i> y declarar otra variable con la longitud del array, ya que en si a los arrays se le asignan elementos y van creciendo dinamicamente.
+                            <li>¿Se puede modificar la solución usando map? ¿Cómo?</li>
 							Si se puede modificar el codigo usando map.<br>
 							Segun la discusión mencionada anteriormente, se puede crear un arreglo "vacío" iterable utilizando la siguiente linea de codigo:<br>
 							<code>Array.apply();</code><br>
@@ -198,7 +198,7 @@
                 [1] Javascript tutorial. <a href="https://www.w3schools.com/javascript/default.asp">https://www.w3schools.com/javascript/default.asp</a>, 2022.
                 Loiane Groner. Learning JavaScript Data Structures and Algorithms: Write complex and powerful Javascript code using the lastest ECMAScript<br>
                 [2] Escobedo, R., 2022. pw2/labs/lab02 at main · rescobedoq/pw2. [online] GitHub. Available at: https://github.com/rescobedoq/pw2/tree/main/labs/lab02.<br>
-                [3] D. Crockford, "JSLint: Help", Jslint.com, 2022. [Online]. Available: https://www.jslint.com/help.html#for. [Accessed: 09- May- 2022].
+                [3] D. Crockford, "JSLint: Help", Jslint.com, 2022. [Online]. Available: https://www.jslint.com/help.html#for.
             </td>
         </tr>
     </tbody>
