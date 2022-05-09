@@ -104,7 +104,7 @@
                     <ul>
                         <li>
                             Blanco Trujillo, Antony Jacob<br>
-                            <a href="#">Colocar link</a>
+                            <a href="https://flipgrid.com/s/CVo5zt3WozyW">https://flipgrid.com/s/CVo5zt3WozyW</a>
                         </li>
                         <li>
                             Cahuana Aguilar, Josué Mathías Miguel<br>
